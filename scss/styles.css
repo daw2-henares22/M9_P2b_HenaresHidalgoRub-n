@@ -3,8 +3,26 @@
   background-color: #212529;
 }
 
-li:hover {
+.cuadradoAzul {
+  width: 30px;
+  height: 30px;
   background-color: blue;
+}
+
+.cuadradoRojo {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+}
+
+.cuadradoNegro {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+}
+
+.noLinea {
+  text-decoration: none;
 }
 
 :root {
